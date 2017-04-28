@@ -1,0 +1,26 @@
+$ python -m unittest -v test
+test_shouldAddHPLP3065SpecialNotNumber (test.Testy) ... ok
+test_shouldAddHTCTouchHDSpecialNegative (test.Testy) ... ok
+test_shouldAddPalmTreoProDiscount2Pieces (test.Testy) ... ok
+test_shouldAddPalmTreoProSpecial (test.Testy) ... ok
+test_shouldAddProductAligatorPhone (test.Testy) ... ok
+test_shouldAddiPodShuffleDiscount0 (test.Testy) ... ok
+test_shouldCopyProduct8 (test.Testy) ... ok
+test_shouldEditSamsungTabletOutOfStockStatus (test.Testy) ... ok
+test_shouldEditiMacQuantityTo1000 (test.Testy) ... ok
+test_shouldEditiPhonePriceTo150 (test.Testy) ... ok
+test_shouldEditiPodNanoQuantityNegative (test.Testy) ... ok
+test_shouldFilterModelProduct18MacBookPro (test.Testy) ... ok
+test_shouldFilterPrice80NikonCamera (test.Testy) ... ok
+test_shouldFilterProductNameSonyVAIO (test.Testy) ... ok
+test_shouldFilterQuantity0SamsungTablet (test.Testy) ... ok
+test_shouldFilterStatusDisabledNoResults (test.Testy) ... ok
+test_shouldRemoveAppleCinemaDiscount20Pieces (test.Testy) ... ok
+test_shouldRemoveAppleCinemaSpecial (test.Testy) ... ok
+test_shouldRemoveProductMacBook (test.Testy) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 432.859s
+
+OK
+

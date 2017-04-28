@@ -154,7 +154,7 @@ The following list contains the test cases details. All the test cases can also 
    * **When** the *Quantity* value is set to *1000* in the *Edit Product -> Data*
    * **And** the *Save* button is pressed
    * **Then** the product *iMac* has the *Quantity* value set to *1000* in the product list
- * *14. shouldEditiPodNanoQuantityTo-10*
+ * *14. shouldEditiPodNanoQuantityNegative*
    * **Given** a product *iPod Nano* in the products database
    * **And** the product has a *Quantity* parameter value different from *-10*, as shown in the product list
    * **When** the *Quantity* value is set to *-10* in the *Edit Product -> Data*
